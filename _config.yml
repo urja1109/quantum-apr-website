@@ -1,0 +1,7 @@
+title: Quantum APR
+description: Quantum Automated Repair
+theme: minima
+
+header_pages: 
+- about.md
+- projects.md
