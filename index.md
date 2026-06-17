@@ -1,8 +1,3 @@
----
-layout: page
-title: Home
----
-
 
 # Quantum Automated Program Repair
 
